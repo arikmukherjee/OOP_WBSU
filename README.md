@@ -21,16 +21,16 @@ Files in this repo are numbered practice problems:
 ## Getting started
 
 1. Install JDK (Java Development Kit) 17 or newer.
-2. Open a terminal in this folder (`OOP_WBSU`).
+2. Open a terminal in this folder (`Java_StepByStep`).
 3. Compile a program:
-   - `javac P1.java`
+   - `javac Main.java`
 4. Run the program:
-   - `java P1`
+   - `java Main`
 
 ## Example Java program (main method)
 
 ```java
-public class P1 {
+public class Main {
   public static void main(String[] args) {
     System.out.println("Hello, OOP_WBSU!");
   }
